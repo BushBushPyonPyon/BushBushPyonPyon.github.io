@@ -1,0 +1,14 @@
+.maCarte {
+	width: 50%;
+	float:left;
+}
+
+.maCarte path {
+	fill: green;
+	stroke:#ffffff;stroke-width:1;stroke-opacity:1
+}
+
+
+.maCarte path:hover {
+	fill: blue;
+}
